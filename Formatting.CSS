@@ -158,3 +158,9 @@ nav ul li a:hover::after{
   object-fit: cover; 
   border-radius: 8px; 
 }
+
+.work a {
+  font-size: 18px;  
+  font-weight: 600;  
+}
+
